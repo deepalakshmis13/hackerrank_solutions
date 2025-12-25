@@ -1,6 +1,7 @@
 # HackerRank Solutions
 This repository contains my accepted solutions to various HackerRank problems.  
 I am uploading these solutions to track my learning progress and improve my problem-solving skills.
+You can click on the folders to view the programs.
 
 ## 🚀 Languages Used
 - Python  
